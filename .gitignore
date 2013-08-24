@@ -3,6 +3,14 @@ bin/
 bin-debug/
 bin-release/
 
+.svn/
+
+.project
+
+hooks/
+
+.actionScriptProperties
+
 # Other files and folders
 .settings/
 
